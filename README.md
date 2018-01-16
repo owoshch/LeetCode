@@ -1,8 +1,6 @@
 # 2018 coding challenge
-## I've failed every interview I attended in the end of 2017.
-## Below this point you can find a list of potential tasks for coding interviews.  
-You can find editorial solutions either on Leetcode or on following links: [Dropbox](https://vk.cc/7gmPHm) or [YouTube](https://vk.cc/7gmSJ5).   
-I am not an author of the solutions from these links. My solutions are stored at this repo and fairly represent my coding skills for a moment.
+## You can find editorial solutions either on Leetcode or on following links: [Dropbox](https://vk.cc/7gmPHm) or [YouTube](https://vk.cc/7gmSJ5). \
+I am not an author for the solutions from these links. My solutions are stored at this repo and fairly represent my coding skills for a moment.
 
 
 283 Move Zeroes (/problems/move-zeroes/) 50.1% Easy \
