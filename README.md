@@ -1,9 +1,9 @@
 # 2018 coding challenge
-## You can find editorial solutions either on Leetcode or on following links: [Dropbox](https://vk.cc/7gmPHm) or [YouTube](https://vk.cc/7gmSJ5). \
+## You can find editorial solutions either on Leetcode or on following links: [Dropbox](https://vk.cc/7gmPHm) or [YouTube](https://vk.cc/7gmSJ5).
 I am not an author for the solutions from these links. My solutions are stored at this repo and fairly represent my coding skills for a moment.
 
 
-283 Move Zeroes (/problems/move-zeroes/) 50.1% Easy \
+283 [Move Zeroes](leetcode.com/problems/move-zeroes/) 50.1% Easy. \
 325 Maximum Size Subarray Sum Equals k (/problems/maximum-size-subarray-sum-equals-k/)  42.4% Medium \
 301 Remove Invalid Parentheses (/problems/remove-invalid-parentheses/) 35.2% Hard \
 67 Add Binary (/problems/add-binary/) 32.6% Easy \
