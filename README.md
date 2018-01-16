@@ -7,12 +7,9 @@
 
 283 Move Zeroes (/problems/move-zeroes/) 50.1% Easy
 
-
 325 Maximum Size Subarray Sum Equals k (/problems/maximum-size-subarray-sum-equals-k/)  42.4% Medium
 
-
 301 Remove Invalid Parentheses (/problems/remove-invalid-parentheses/) 35.2% Hard
-
 
 67 Add Binary (/problems/add-binary/) 32.6% Easy
 
