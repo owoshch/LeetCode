@@ -1,14 +1,22 @@
 # 2018 coding challenge
 ## I've failed every interview I attended in the end of 2017.
-## list of potential tasks for coding interviews
+## Below this point you can find a list of potential tasks for coding interviews
 ## You can find editorial solutions either on Leetcode or on following links:
-## Dropbox: https://vk.cc/7gmPHm
-## YouTube: https://vk.cc/7gmSJ5 
+### [Dropbox](https://vk.cc/7gmPHm)
+### [YouTube](https://vk.cc/7gmSJ5) 
 
 283 Move Zeroes (/problems/move-zeroes/) 50.1% Easy
+
+
 325 Maximum Size Subarray Sum Equals k (/problems/maximum-size-subarray-sum-equals-k/)  42.4% Medium
+
+
 301 Remove Invalid Parentheses (/problems/remove-invalid-parentheses/) 35.2% Hard
+
+
 67 Add Binary (/problems/add-binary/) 32.6% Easy
+
+
 311 Sparse Matrix Multiplication (/problems/sparse-matrix-multiplication/)  50.9% Medium
 314 Binary Tree Vertical Order Traversal (/problems/binary-tree-vertical-order-traversal/)  36.6% Medium
 273 Integer to English Words (/problems/integer-to-english-words/) 22.1% Hard
