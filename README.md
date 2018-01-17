@@ -4,7 +4,7 @@ I am not an author for the solutions from these links. My solutions are stored a
 
 
 283 [Move Zeroes](https://leetcode.com/problems/move-zeroes/) 50.1% Easy. \
-325 Maximum Size Subarray Sum Equals k (/problems/maximum-size-subarray-sum-equals-k/)  42.4% Medium \
+325 [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)  42.4% Medium \
 301 Remove Invalid Parentheses (/problems/remove-invalid-parentheses/) 35.2% Hard \
 67 Add Binary (/problems/add-binary/) 32.6% Easy \
 311 Sparse Matrix Multiplication (/problems/sparse-matrix-multiplication/)  50.9% Medium \
