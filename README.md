@@ -8,7 +8,7 @@ I am not an author for the solutions from these links. My solutions are stored a
 301 [Remove Invalid Parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) 35.2% Hard \
 67 [Add Binary](https://leetcode.com/problems/add-binary/) 32.6% Easy \
 311 [Sparse Matrix Multiplication](https://leetcode.com/problems/sparse-matrix-multiplication/)  50.9% Medium \
-314 Binary Tree Vertical Order Traversal (/problems/binary-tree-vertical-order-traversal/)  36.6% Medium \
+314 [Binary Tree Vertical Order Traversal](https://leetcode.com/problems/binary-tree-vertical-order-traversal/)  36.6% Medium \
 273 Integer to English Words (/problems/integer-to-english-words/) 22.1% Hard \
 278 First Bad Version (/problems/first-bad-version/) 25.4% Easy \
 17 Letter Combinations of a Phone Number (/problems/letter-combinations-of-a-phone-number/) 34.7% Medium \
