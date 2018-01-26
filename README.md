@@ -27,7 +27,7 @@ Read N Characters Given Read4 II - Call multiple times (/problems/read-n-charact
 76 Minimum Window Substring (/problems/minimum-window-substring/) 25.5% Hard \
 257 Binary Tree Paths (/problems/binary-tree-paths/) 38.7% Easy \
 23 Merge k Sorted Lists (/problems/merge-k-sorted-lists/) 27.3% Hard \
-161 One Edit Distance (/problems/one-edit-distance/)  31.3% Medium \
+161[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)  31.3% Medium \
 157 Read N Characters Given Read4 (/problems/read-n-characters-given-read4/)  28.9% Easy \
 211 Add and Search Word - Data structure design (/problems/add-and-search-word-data-structure-design/) 23.1% Medium \
 285 Inorder Successor in BST (/problems/inorder-successor-in-bst/)  36.1% Medium \
