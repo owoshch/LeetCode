@@ -27,7 +27,7 @@ Read N Characters Given Read4 II - Call multiple times (/problems/read-n-charact
 297 Serialize and Deserialize Binary Tree (/problems/serialize-and-deserialize-binary-tree/) 33.4% Hard \
 282 Expression Add Operators (/problems/expression-add-operators/) 29.8% Hard \
 76 Minimum Window Substring (/problems/minimum-window-substring/) 25.5% Hard \
-257 Binary Tree Paths (/problems/binary-tree-paths/) 38.7% Easy \
+257 [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) 38.7% Easy \
 23 Merge k Sorted Lists (/problems/merge-k-sorted-lists/) 27.3% Hard \
 161[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)  31.3% Medium \
 157 Read N Characters Given Read4 (/problems/read-n-characters-given-read4/)  28.9% Easy \
