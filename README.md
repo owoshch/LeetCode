@@ -77,7 +77,7 @@ Read N Characters Given Read4 II - Call multiple times (/problems/read-n-charact
 494 Target Sum (/problems/target-sum/) 43.4% Medium \
 20 Valid Parentheses (/problems/valid-parentheses/) 33.5% Easy \
 235
-Lowest Common Ancestor of a Binary Search Tree (/problems/lowest-common-ancestor-of-a-binarysearch-tree/)
+[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binarysearch-tree/)
 39.1% Easy \
 69 Sqrt(x) (/problems/sqrtx/) 27.9% Easy \
 286 Walls and Gates (/problems/walls-and-gates/)  44.2% Medium \
