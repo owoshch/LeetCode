@@ -12,7 +12,7 @@ I am not an author for the solutions from these links. My solutions are stored a
 485 [Max consecutive ones](https://leetcode.com/problems/max-consecutive-ones) Easy \
 487 [Max consecutive ones II](https://leetcode.com/problems/max-consecutive-ones-ii) Medium \
 273 Integer to English Words (/problems/integer-to-english-words/) 22.1% Hard \
-278 First Bad Version (/problems/first-bad-version/) 25.4% Easy \
+278 [First Bad Version](https://leetcode.com/problems/first-bad-version/) 25.4% Easy \
 17 Letter Combinations of a Phone Number (/problems/letter-combinations-of-a-phone-number/) 34.7% Medium \
 91 Decode Ways (/problems/decode-ways/) 19.7% Medium \
 10 Regular Expression Matching (/problems/regular-expression-matching/) 24.1% Hard \
