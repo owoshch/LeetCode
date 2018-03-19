@@ -39,7 +39,7 @@ Read N Characters Given Read4 II - Call multiple times (/problems/read-n-charact
 341 Flatten Nested List Iterator (/problems/flatten-nested-list-iterator/) 41.7% Medium \
 1 Two Sum (/problems/two-sum/) 34.9% Easy \
 173 [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) 41.5% Medium \
-125 Valid Palindrome (/problems/valid-palindrome/) 26.3% Easy \
+125 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) 26.3% Easy \
 75 Sort Colors (/problems/sort-colors/) 38.1% Medium
 78 Subsets (/problems/subsets/) 41.0% Medium \
 98[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) 23.4% Medium \
