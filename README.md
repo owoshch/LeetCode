@@ -1,6 +1,6 @@
 # 2018 coding challenge
 ## You can find editorial solutions either on Leetcode or on following links: [Dropbox](https://www.dropbox.com/s/37gabcc65lds6ak/fb.docx?dl=0) or [YouTube](https://www.youtube.com/user/tusharroy2525/videos)
-I am not an author for the solutions from these links. My solutions are stored at this repo and fairly represent my coding skills for a moment.
+I am not an author for the solutions from the links listed abouve. My solutions are stored at this repo and fairly represent my coding skills.
 
 
 283 [Move Zeroes](https://leetcode.com/problems/move-zeroes/) 50.1% Easy. \
