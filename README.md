@@ -116,7 +116,7 @@ Friend Requests II: Who Has the Most Friends (/problems/friend-requests-ii-who-h
 404 [Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) 47.0% Easy \
 636 Exclusive Time of Functions (/problems/exclusive-time-of-functions/) 41.3% Medium \
 410 Split Array Largest Sum (/problems/split-array-largest-sum/) 37.4% Hard \
-637 Average of Levels in Binary Tree (/problems/average-of-levels-in-binary-tree/) 55.9% Easy \
+637 [Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) 55.9% Easy \
 639 Decode Ways II (/problems/decode-ways-ii/) 23.1% Hard \
 168 Excel Sheet Column Title (/problems/excel-sheet-column-title/) 26.1% Easy \
 642 Design Search Autocomplete System (/problems/design-search-autocomplete-system/)  29.6% Hardv
