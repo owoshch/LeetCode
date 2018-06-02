@@ -100,7 +100,7 @@ Populating Next Right Pointers in Each Node II (/problems/populating-next-right-
 461 Hamming Distance (/problems/hamming-distance/) 70.0% Easy \
 477 Total Hamming Distance (/problems/total-hamming-distance/) 46.9% Medium \
 554 Brick Wall (/problems/brick-wall/) 45.1% Medium \
-572 Subtree of Another Tree (/problems/subtree-of-another-tree/) 40.6% Easy \
+572 [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) 40.6% Easy \
 578 Get Highest Answer Rate Question (/problems/get-highest-answer-rate-question/)  25.8% Medium \
 275 H-Index II (/problems/h-index-ii/) 34.4% Medium \
 597 Friend Requests I: Overall Acceptance Rate (/problems/friend-requests-i-overall-acceptance-rate/)  33.2% Easy \
