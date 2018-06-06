@@ -65,7 +65,7 @@ Read N Characters Given Read4 II - Call multiple times (/problems/read-n-charact
 44 Wildcard Matching (/problems/wildcard-matching/) 20.2% Hard \
 102 Binary Tree Level Order Traversal (/problems/binary-tree-level-order-traversal/) 40.0% Medium \
 128 Longest Consecutive Sequence (/problems/longest-consecutive-sequence/) 36.9% Hard \
-88 Merge Sorted Array (/problems/merge-sorted-array/) 32.0% Easy \
+88 [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) 32.0% Easy \
 380 Insert Delete GetRandom O(1) (/problems/insert-delete-getrandom-o1/) 39.2% Medium \
 28 Implement strStr() (/problems/implement-strstr/) 28.2% Easy \
 377 Combination Sum IV (/problems/combination-sum-iv/) 42.0% Medium \
