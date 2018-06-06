@@ -97,7 +97,7 @@ Populating Next Right Pointers in Each Node II (/problems/populating-next-right-
 535 Encode and Decode TinyURL (/problems/encode-and-decode-tinyurl/) 74.3% Medium \
 543 [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) 43.9% Easy \
 261 Graph Valid Tree (/problems/graph-valid-tree/)  37.8% Medium \
-461 Hamming Distance (/problems/hamming-distance/) 70.0% Easy \
+461 [Hamming Distance](https://leetcode.com/problems/hamming-distance/) 70.0% Easy \
 477 Total Hamming Distance (/problems/total-hamming-distance/) 46.9% Medium \
 554 Brick Wall (/problems/brick-wall/) 45.1% Medium \
 572 [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) 40.6% Easy \
