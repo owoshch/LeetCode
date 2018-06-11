@@ -3,7 +3,7 @@
 I am not an author for the solutions from the links listed abouve. My solutions are stored at this repo and fairly represent my coding skills.
 
 
-### 32 assignments are solved so far.
+### 33 assignments are solved so far.
 
 283 [Move Zeroes](https://leetcode.com/problems/move-zeroes/) 50.1% Easy. \
 325 [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)  42.4% Medium \
@@ -28,7 +28,7 @@ Read N Characters Given Read4 II - Call multiple times (/problems/read-n-charact
 200 Number of Islands (/problems/number-of-islands/) 34.7% Medium \
 297 Serialize and Deserialize Binary Tree (/problems/serialize-and-deserialize-binary-tree/) 33.4% Hard \
 282 Expression Add Operators (/problems/expression-add-operators/) 29.8% Hard \
-76 Minimum Window Substring (/problems/minimum-window-substring/) 25.5% Hard \
+76 [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) 25.5% Hard \
 257 [Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) 38.7% Easy \
 23 Merge k Sorted Lists (/problems/merge-k-sorted-lists/) 27.3% Hard \
 161[One Edit Distance](https://leetcode.com/problems/one-edit-distance/)  31.3% Medium \
