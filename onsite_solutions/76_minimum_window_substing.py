@@ -1,7 +1,7 @@
 """
 June, 11
 20 minutes, wrong answer in the case when the first string has one symbol in it:
-s = "a"
+s = "aa"
 t = "aa"
 """
 
@@ -13,6 +13,8 @@ class Solution:
         :type t: str
         :rtype: str
         """
+        if len(s) < len(t):
+            return ""
         indices = [-1, -1]
         min_len = float('inf')
         substing_dict = dict(zip(set(t), [-1] * len(set(t))))
