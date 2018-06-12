@@ -3,7 +3,7 @@
 I am not an author for the solutions from the links listed abouve. My solutions are stored at this repo and fairly represent my coding skills.
 
 
-### 34 assignments are solved so far.
+### 35 assignments are solved so far.
 
 283 [Move Zeroes](https://leetcode.com/problems/move-zeroes/) 50.1% Easy. \
 325 [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)  42.4% Medium \
@@ -57,7 +57,7 @@ Read N Characters Given Read4 II - Call multiple times (/problems/read-n-charact
 38 Count and Say (/problems/count-and-say/) 34.9% Easy \
 57 Insert Interval (/problems/insert-interval/) 27.8% Hard \
 209 [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) 30.8% Medium \
-215 Kth Largest Element in an Array (/problems/kth-largest-element-in-an-array/) 39.3% Medium \
+215 [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) 39.3% Medium \
 71 Simplify Path (/problems/simplify-path/) 25.4% Medium \
 146 LRU Cache (/problems/lru-cache/) 17.9% Hard \
 13 Roman to Integer (/problems/roman-to-integer/) 46.0% Easy \
