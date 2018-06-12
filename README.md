@@ -3,7 +3,7 @@
 I am not an author for the solutions from the links listed abouve. My solutions are stored at this repo and fairly represent my coding skills.
 
 
-### 33 assignments are solved so far.
+### 34 assignments are solved so far.
 
 283 [Move Zeroes](https://leetcode.com/problems/move-zeroes/) 50.1% Easy. \
 325 [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)  42.4% Medium \
@@ -77,7 +77,7 @@ Read N Characters Given Read4 II - Call multiple times (/problems/read-n-charact
 50 Pow(x, n) (/problems/powx-n/) 26.3% Medium \
 269 Alien Dictionary (/problems/alien-dictionary/)  24.3% Hard \
 494 Target Sum (/problems/target-sum/) 43.4% Medium \
-20 Valid Parentheses (/problems/valid-parentheses/) 33.5% Easy \
+20 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 33.5% Easy \
 235
 [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binarysearch-tree/)
 39.1% Easy \
