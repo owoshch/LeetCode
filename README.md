@@ -3,7 +3,7 @@
 I am not an author for the solutions from the links listed abouve. My solutions are stored at this repo and fairly represent my coding skills.
 
 
-### 35 assignments are solved so far.
+### 36 assignments are solved so far.
 
 283 [Move Zeroes](https://leetcode.com/problems/move-zeroes/) 50.1% Easy. \
 325 [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)  42.4% Medium \
@@ -19,7 +19,7 @@ I am not an author for the solutions from the links listed abouve. My solutions 
 91 Decode Ways (/problems/decode-ways/) 19.7% Medium \
 10 Regular Expression Matching (/problems/regular-expression-matching/) 24.1% Hard \
 253[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)  38.9% Medium \
-15 3Sum (/problems/3sum/) 21.6% Medium \
+15 [3Sum](https://leetcode.com/problems/3sum/) 21.6% Medium \
 277 Find the Celebrity (/problems/find-the-celebrity/)  35.4% Medium \
 158
 Read N Characters Given Read4 II - Call multiple times (/problems/read-n-characters-given-read4-ii-callmultiple-times/)
