@@ -3,7 +3,7 @@
 I am not an author for the solutions from the links listed abouve. My solutions are stored at this repo and fairly represent my coding skills.
 
 
-### 36 assignments are solved so far.
+### 37 assignments are solved so far.
 
 283 [Move Zeroes](https://leetcode.com/problems/move-zeroes/) 50.1% Easy. \
 325 [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)  42.4% Medium \
@@ -79,7 +79,7 @@ Read N Characters Given Read4 II - Call multiple times (/problems/read-n-charact
 494 Target Sum (/problems/target-sum/) 43.4% Medium \
 20 [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 33.5% Easy \
 235
-[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binarysearch-tree/)
+[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 39.1% Easy \
 69 Sqrt(x) (/problems/sqrtx/) 27.9% Easy \
 286 Walls and Gates (/problems/walls-and-gates/)  44.2% Medium \
@@ -93,7 +93,7 @@ Populating Next Right Pointers in Each Node II (/problems/populating-next-right-
 210 Course Schedule II (/problems/course-schedule-ii/) 28.2% Medium \
 25 Reverse Nodes in k-Group (/problems/reverse-nodes-in-k-group/) 30.8% Hard \
 234 Palindrome Linked List (/problems/palindrome-linked-list/) 32.8% Easy \
-80 Remove Duplicates from Sorted Array II (/problems/remove-duplicates-from-sorted-array-ii/) 36.1% Medium \
+80 [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) 36.1% Medium \
 525 Contiguous Array (/problems/contiguous-array/) 39.6% Medium \
 534 Design TinyURL (/problems/design-tinyurl/) 0.0% Medium \
 535 Encode and Decode TinyURL (/problems/encode-and-decode-tinyurl/) 74.3% Medium \
