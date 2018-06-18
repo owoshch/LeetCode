@@ -3,7 +3,7 @@
 I am not an author for the solutions from the links listed abouve. My solutions are stored at this repo and fairly represent my coding skills.
 
 
-### 39 assignments are solved so far.
+### 40 assignments are solved so far.
 
 283 [Move Zeroes](https://leetcode.com/problems/move-zeroes/) 50.1% Easy. \
 325 [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)  42.4% Medium \
@@ -54,7 +54,7 @@ Read N Characters Given Read4 II - Call multiple times (/problems/read-n-charact
 236 [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) 29.8% Medium \
 79 Word Search (/problems/word-search/) 26.9% Medium \
 238 Product of Array Except Self (/problems/product-of-array-except-self/) 49.2% Medium \
-38 Count and Say (/problems/count-and-say/) 34.9% Easy \
+38 [Count and Say](https://leetcode.com/problems/count-and-say/) 34.9% Easy \
 57 Insert Interval (/problems/insert-interval/) 27.8% Hard \
 209 [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) 30.8% Medium \
 215 [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) 39.3% Medium \
