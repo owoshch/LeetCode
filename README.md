@@ -3,7 +3,7 @@
 I am not an author for the solutions from the links listed abouve. My solutions are stored at this repo and fairly represent my coding skills.
 
 
-### 38 assignments are solved so far.
+### 39 assignments are solved so far.
 
 283 [Move Zeroes](https://leetcode.com/problems/move-zeroes/) 50.1% Easy. \
 325 [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)  42.4% Medium \
@@ -39,7 +39,7 @@ Read N Characters Given Read4 II - Call multiple times (/problems/read-n-charact
 121 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 41.3% Easy \
 56 [Merge Intervals](https://leetcode.com/problems/merge-intervals/) 30.3% Medium \
 341 Flatten Nested List Iterator (/problems/flatten-nested-list-iterator/) 41.7% Medium \
-1 Two Sum (/problems/two-sum/) 34.9% Easy \
+1 [Two Sum](https://leetcode.com/problems/two-sum/) 34.9% Easy \
 173 [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) 41.5% Medium \
 125 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) 26.3% Easy \
 75 Sort Colors (/problems/sort-colors/) 38.1% Medium
