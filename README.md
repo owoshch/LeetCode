@@ -3,7 +3,7 @@
 I am not an author for the solutions from the links listed abouve. My solutions are stored at this repo and fairly represent my coding skills.
 
 
-### 37 assignments are solved so far.
+### 38 assignments are solved so far.
 
 283 [Move Zeroes](https://leetcode.com/problems/move-zeroes/) 50.1% Easy. \
 325 [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)  42.4% Medium \
@@ -47,7 +47,7 @@ Read N Characters Given Read4 II - Call multiple times (/problems/read-n-charact
 98[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) 23.4% Medium \
 43 Multiply Strings (/problems/multiply-strings/) 27.2% Medium \
 206 [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) 45.6% Easy \
-133 Clone Graph (/problems/clone-graph/) 25.1% Medium \
+133 [Clone Graph](https://leetcode.com/problems/clone-graph/) 25.1% Medium \
 252 [Meeting Rooms](https://leetcode.com/problems/meeting-rooms/)  47.5% Easy \
 218 The Skyline Problem (/problems/the-skyline-problem/) 27.4% Hard \
 49 Group Anagrams (/problems/group-anagrams/) 35.1% Medium \
