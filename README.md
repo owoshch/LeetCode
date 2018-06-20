@@ -81,7 +81,7 @@ Read N Characters Given Read4 II - Call multiple times (/problems/read-n-charact
 235
 [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
 39.1% Easy \
-69 Sqrt(x) (/problems/sqrtx/) 27.9% Easy \
+69 [Sqrt(x)](https://leetcode.com/problems/sqrtx/) 27.9% Easy \
 286 Walls and Gates (/problems/walls-and-gates/)  44.2% Medium \
 117
 Populating Next Right Pointers in Each Node II (/problems/populating-next-right-pointers-in-each-nodeii/)
@@ -105,7 +105,6 @@ Populating Next Right Pointers in Each Node II (/problems/populating-next-right-
 572 [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) 40.6% Easy \
 578 Get Highest Answer Rate Question (/problems/get-highest-answer-rate-question/)  25.8% Medium \
 275 H-Index II (/problems/h-index-ii/) 34.4% Medium \
-597 [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/)  33.2% Easy \
 265 Paint House II (/problems/paint-house-ii/)  38.1% Hard \
 602
 Friend Requests II: Who Has the Most Friends (/problems/friend-requests-ii-who-has-the-most-friends/)
