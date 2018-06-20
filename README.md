@@ -3,7 +3,7 @@
 I am not an author for the solutions from the links listed abouve. My solutions are stored at this repo and fairly represent my coding skills.
 
 
-### 41 assignments are solved so far.
+### 42 assignments are solved so far.
 
 283 [Move Zeroes](https://leetcode.com/problems/move-zeroes/) 50.1% Easy. \
 325 [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)  42.4% Medium \
@@ -105,7 +105,7 @@ Populating Next Right Pointers in Each Node II (/problems/populating-next-right-
 572 [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) 40.6% Easy \
 578 Get Highest Answer Rate Question (/problems/get-highest-answer-rate-question/)  25.8% Medium \
 275 H-Index II (/problems/h-index-ii/) 34.4% Medium \
-597 Friend Requests I: Overall Acceptance Rate (/problems/friend-requests-i-overall-acceptance-rate/)  33.2% Easy \
+597 [Friend Requests I: Overall Acceptance Rate](https://leetcode.com/problems/friend-requests-i-overall-acceptance-rate/)  33.2% Easy \
 265 Paint House II (/problems/paint-house-ii/)  38.1% Hard \
 602
 Friend Requests II: Who Has the Most Friends (/problems/friend-requests-ii-who-has-the-most-friends/)
