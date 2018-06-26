@@ -3,7 +3,7 @@
 I am not an author for the solutions from the links listed abouve. My solutions are stored at this repo and fairly represent my coding skills.
 
 
-### 44 assignments are solved so far.
+### 45 assignments are solved so far.
 
 283 [Move Zeroes](https://leetcode.com/problems/move-zeroes/) 50.1% Easy. \
 325 [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)  42.4% Medium \
@@ -16,7 +16,7 @@ I am not an author for the solutions from the links listed abouve. My solutions 
 273 Integer to English Words (/problems/integer-to-english-words/) 22.1% Hard \
 278 [First Bad Version](https://leetcode.com/problems/first-bad-version/) 25.4% Easy \
 17 [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) 34.7% Medium \
-91 Decode Ways (/problems/decode-ways/) 19.7% Medium \
+91 [Decode Ways](https://leetcode.com/problems/decode-ways/) 19.7% Medium \
 10 Regular Expression Matching (/problems/regular-expression-matching/) 24.1% Hard \
 253[Meeting Rooms II](https://leetcode.com/problems/meeting-rooms-ii/)  38.9% Medium \
 15 [3Sum](https://leetcode.com/problems/3sum/) 21.6% Medium \
