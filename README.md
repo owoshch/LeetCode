@@ -3,7 +3,7 @@
 I am not an author for the solutions from the links listed abouve. My solutions are stored at this repo and fairly represent my coding skills.
 
 
-### 46 assignments are solved so far.
+### 47 assignments are solved so far.
 
 283 [Move Zeroes](https://leetcode.com/problems/move-zeroes/) 50.1% Easy. \
 325 [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)  42.4% Medium \
@@ -42,7 +42,7 @@ Read N Characters Given Read4 II - Call multiple times (/problems/read-n-charact
 1 [Two Sum](https://leetcode.com/problems/two-sum/) 34.9% Easy \
 173 [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/) 41.5% Medium \
 125 [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) 26.3% Easy \
-75 Sort Colors (/problems/sort-colors/) 38.1% Medium
+75 [Sort Colors] (https://leetcode.com/problems/sort-colors/) 38.1% Medium \ 
 78 Subsets (/problems/subsets/) 41.0% Medium \
 98[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) 23.4% Medium \
 43 Multiply Strings (/problems/multiply-strings/) 27.2% Medium \
