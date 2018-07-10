@@ -3,7 +3,7 @@
 I am not an author for the solutions from the links listed abouve. My solutions are stored at this repo and fairly represent my coding skills.
 
 
-### 47 assignments are solved so far.
+### 48 assignments are solved so far.
 
 283 [Move Zeroes](https://leetcode.com/problems/move-zeroes/) 50.1% Easy. \
 325 [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)  42.4% Medium \
@@ -110,7 +110,7 @@ Populating Next Right Pointers in Each Node II (/problems/populating-next-right-
 Friend Requests II: Who Has the Most Friends (/problems/friend-requests-ii-who-has-the-most-friends/)
 
 42.2% Medium \
-621 Task Scheduler (/problems/task-scheduler/) 42.0% Medium \
+621 [Task Scheduler](https://leetcode.com/problems/task-scheduler/) 42.0% Medium \
 653 [Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) 51.1% Easy \
 523 Continuous Subarray Sum (/problems/continuous-subarray-sum/) 22.7% Medium \
 26 [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) 35.4% Easy \
