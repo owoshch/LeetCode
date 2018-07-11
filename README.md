@@ -3,7 +3,7 @@
 I am not an author for the solutions from the links listed abouve. My solutions are stored at this repo and fairly represent my coding skills.
 
 
-### 48 assignments are solved so far.
+### 49 assignments are solved so far.
 
 283 [Move Zeroes](https://leetcode.com/problems/move-zeroes/) 50.1% Easy. \
 325 [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k/)  42.4% Medium \
@@ -35,7 +35,7 @@ Read N Characters Given Read4 II - Call multiple times (/problems/read-n-charact
 157 [Read N Characters Given Read4](https://leetcode.com/problems/read-n-characters-given-read4/)  28.9% Easy \
 211 Add and Search Word - Data structure design (/problems/add-and-search-word-data-structure-design/) 23.1% Medium \
 285[Inorder Successor in BST](https://leetcode.com/problems/inorder-successor-in-bst/)  36.1% Medium \
-139 Word Break (/problems/word-break/) 30.1% Medium \
+139 [Word Break](https://leetcode.com/problems/word-break/) 30.1% Medium \
 121 [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) 41.3% Easy \
 56 [Merge Intervals](https://leetcode.com/problems/merge-intervals/) 30.3% Medium \
 341 Flatten Nested List Iterator (/problems/flatten-nested-list-iterator/) 41.7% Medium \
