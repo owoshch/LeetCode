@@ -53,7 +53,7 @@ Read N Characters Given Read4 II - Call multiple times (/problems/read-n-charact
 49 Group Anagrams (/problems/group-anagrams/) 35.1% Medium \
 236 [Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) 29.8% Medium \
 79 [Word Search](https://leetcode.com/problems/word-search/) 26.9% Medium \
-238 [Product of Array Except Self] (https://leetcode.com/problems/product-of-array-except-self/) 49.2% Medium \
+238 [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) 49.2% Medium \
 38 [Count and Say](https://leetcode.com/problems/count-and-say/) 34.9% Easy \
 57 Insert Interval (/problems/insert-interval/) 27.8% Hard \
 209 [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) 30.8% Medium \
